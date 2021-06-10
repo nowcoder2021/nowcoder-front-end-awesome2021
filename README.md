@@ -1,5 +1,5 @@
 # 牛客网2021年前端精华面经汇总（周更）
-更新时间：6月3日
+更新时间：6月10日
 1. [3年半前端阿里1-4面面经](https://www.nowcoder.com/discuss/595419?from=gitnowcoder2021)
 2. [四舍五入两年经验互联网寒冬的招聘总结](https://www.nowcoder.com/discuss/606420?from=gitnowcoder2021)
 3. [【简历】校招工程师类技术岗简历如何撰写+面试准备](https://www.nowcoder.com/discuss/634906?from=gitnowcoder2021)
