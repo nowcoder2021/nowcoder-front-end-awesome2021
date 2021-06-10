@@ -12,6 +12,7 @@
 10. [记录2021前端春招实习，含阿里、字节、腾讯、百度等各厂面经](https://www.nowcoder.com/discuss/654190?from=gitnowcoder2021)
 11. [腾讯前端实习一面面经](https://www.nowcoder.com/discuss/661713?from=gitnowcoder2021)
 12. [菜鸡的21届前端面经](https://www.nowcoder.com/discuss/662168?from=gitnowcoder2021)
+13. [前端社招面经|双非菜鸡面腾讯，阿里和百度面经（百度已oc）](https://www.nowcoder.com/discuss/669880?from=gitnowcoder2021)
 ---
 求职之前，先上牛客
 
